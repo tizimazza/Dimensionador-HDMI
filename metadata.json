@@ -1,0 +1,8 @@
+{
+  "name": "Discabos AVLIFE Sizing Plugin v2.1.0",
+  "description": "Calculadora HDMI em tela única para WordPress, focada em dimensionamento técnico sem preços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
